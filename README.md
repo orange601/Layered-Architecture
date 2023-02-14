@@ -32,9 +32,9 @@
 ### 의존성 역전하기 ###
 
 #### 1. 단일책임원칙 ####
-- Single Responsibility Principal [SRP자세하게알아보기](https://github.com/orange601/Java-Solid/tree/main/1.%20SRP)
+- Single Responsibility Principal [[SRP자세하게알아보기]](https://github.com/orange601/Java-Solid/tree/main/1.%20SRP)
 - 컴포넌트를 변경하는 이유는 오직 하나일 수 있도록 구조화하기
 
 #### 2. 의존성역전원칙 ####
-- Dependency Inversion Principle [DIP자세하게알아보기](https://github.com/orange601/Java-Solid/tree/main/5.%20DIP)
+- Dependency Inversion Principle [[DIP자세하게알아보기]](https://github.com/orange601/Java-Solid/tree/main/5.%20DIP)
 - 영속성 계층에 변화가 생길시 도메인 계층도 변경해야하는 경우가 많다.
