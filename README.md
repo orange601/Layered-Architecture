@@ -7,6 +7,7 @@
 - 3계층 혹은 4계층으로 나누어진다.
 
 ![Da drawio](https://user-images.githubusercontent.com/24876345/219259022-9dbfa424-8be8-42e3-95e2-2731b0cc812c.png){: width="380" }
+<img src = "https://user-images.githubusercontent.com/24876345/219259022-9dbfa424-8be8-42e3-95e2-2731b0cc812c.png" width="350px">
 
 
 ### 웹( presentation layer ) ###
