@@ -6,7 +6,7 @@
 - 영속성 계층을 토대로 만들지기 때문에 데이터베이스에 의존적이다. 그러므로 데이터베이스 중심으로 설계가 진행된다.
 - 3계층 혹은 4계층으로 나누어진다.
 
-![Da drawio](https://user-images.githubusercontent.com/24876345/219259022-9dbfa424-8be8-42e3-95e2-2731b0cc812c.png)
+![Da drawio](https://user-images.githubusercontent.com/24876345/219259022-9dbfa424-8be8-42e3-95e2-2731b0cc812c.png){: width="380" }
 
 
 ### 웹( presentation layer ) ###
