@@ -61,6 +61,6 @@
 ## 계층형 아키텍처 단점 해결방법 ##
 
 ### 의존성 역전하기 ###
-
+- 아래와 같은 형태를 각 계층마다 적용하다 보니, 핵사고날 아키텍쳐의 형태를 띄게 됩니다.
 <img src = "https://user-images.githubusercontent.com/24876345/219260962-ea444c2e-026a-4cb6-84bc-19d4ff49c961.png" width="350px">
 
